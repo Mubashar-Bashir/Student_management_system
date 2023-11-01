@@ -1,0 +1,28 @@
+[
+    {
+      "facultyID": "FAC001",
+      "name": "Dr. John Doe",
+      "specialization": "Computer Science",
+      "email": "johndoe@example.com",
+      "contact": "123-456-7890",
+      "address": "123 University Ave"
+    },
+    {
+      "facultyID": "FAC002",
+      "name": "Prof. Jane Smith",
+      "specialization": "Mathematics",
+      "email": "janesmith@example.com",
+      "contact": "987-654-3210",
+      "address": "456 College St"
+    },
+    {
+      "facultyID": "FAC003",
+      "name": "Dr. Robert Johnson",
+      "specialization": "Biology",
+      "email": "robertjohnson@example.com",
+      "contact": "555-123-7890",
+      "address": "789 Science Blvd"
+    }
+   
+  ]
+  

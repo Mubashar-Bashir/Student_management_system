@@ -1,0 +1,28 @@
+[
+    {
+      "courseCode": "CSE101",
+      "title": "Introduction to Computer Science",
+      "description": "An introductory course to computer science.",
+      "creditHours": 3,
+      "courseFee": 5000,
+      "faculty": "Dr. John Doe"
+    },
+    {
+      "courseCode": "MATH201",
+      "title": "Calculus I",
+      "description": "A fundamental calculus course.",
+      "creditHours": 4,
+      "courseFee": 15000,
+      "faculty": "Prof. Jane Smith"
+    },
+    {
+      "courseCode": "ENG101",
+      "title": "English Composition",
+      "description": "A composition and writing course.",
+      "creditHours": 3,
+      "courseFee": 5000,
+      "faculty": "Dr. Robert Johnson"
+    }
+    
+  ]
+  
